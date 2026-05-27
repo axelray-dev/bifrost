@@ -692,6 +692,14 @@ export const Icons = {
 			/>
 		</svg>
 	),
+	teamsIcon: (props: IconProps) => (
+		<svg viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" width="24" height="24" {...props}>
+			<rect x="3" y="3" width="7.5" height="7.5" rx="1.5" fill="#6264A7"/>
+			<rect x="13.5" y="3" width="7.5" height="7.5" rx="1.5" fill="#6264A7"/>
+			<rect x="3" y="13.5" width="7.5" height="7.5" rx="1.5" fill="#6264A7"/>
+			<rect x="13.5" y="13.5" width="7.5" height="7.5" rx="1.5" fill="#6264A7"/>
+		</svg>
+	),
 };
 
 export const SdkIcons = {
