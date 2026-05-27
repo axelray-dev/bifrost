@@ -1,0 +1,1 @@
+import{t as e}from"./jsx-runtime-6meTaj9M.js";import{t}from"./loader-circle-l1IbNqY5.js";var n=e();function r(){return(0,n.jsx)(`div`,{className:`h-base pb-1/2 flex items-center justify-center`,children:(0,n.jsx)(t,{className:`h-4 w-4 animate-spin`})})}export{r as t};

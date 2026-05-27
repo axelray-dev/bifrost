@@ -1,0 +1,66 @@
+{
+  "files": {
+    "tracker.go": {
+      "modifiedRanges": [
+        {
+          "start": 1,
+          "end": 362
+        }
+      ],
+      "importsChanged": true,
+      "lastEdit": "2026-05-25T07:49:49.435Z"
+    },
+    "store.go": {
+      "modifiedRanges": [
+        {
+          "start": 102,
+          "end": 113
+        },
+        {
+          "start": 1715,
+          "end": 1742
+        },
+        {
+          "start": 1749,
+          "end": 1759
+        }
+      ],
+      "importsChanged": false,
+      "lastEdit": "2026-05-25T07:39:38.747Z"
+    },
+    "main.go": {
+      "modifiedRanges": [
+        {
+          "start": 1,
+          "end": 1809
+        }
+      ],
+      "importsChanged": true,
+      "lastEdit": "2026-05-22T07:17:42.698Z"
+    },
+    "store_test.go": {
+      "modifiedRanges": [
+        {
+          "start": 1,
+          "end": 1273
+        }
+      ],
+      "importsChanged": true,
+      "lastEdit": "2026-05-25T11:36:55.046Z"
+    },
+    "tracker_test.go": {
+      "modifiedRanges": [
+        {
+          "start": 155,
+          "end": 202
+        }
+      ],
+      "importsChanged": false,
+      "lastEdit": "2026-05-25T11:23:29.172Z"
+    }
+  },
+  "turnCycles": 0,
+  "maxCycles": 3,
+  "lastUpdated": "2026-05-25T11:36:55.046Z",
+  "sessionId": "lens-mpl45w4j-053094db"
+}

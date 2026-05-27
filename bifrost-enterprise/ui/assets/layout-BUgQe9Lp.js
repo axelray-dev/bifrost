@@ -1,0 +1,1 @@
+import{t as e}from"./jsx-runtime-6meTaj9M.js";import{t}from"./guardrailsConfigurationView-Bf7a_WJO.js";var n=e();function r(){return(0,n.jsx)(`div`,{className:`mx-auto w-full max-w-7xl`,children:(0,n.jsx)(t,{})})}var i=r;export{i as component};

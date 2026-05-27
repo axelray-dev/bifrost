@@ -1,0 +1,1 @@
+import{t as e}from"./jsx-runtime-6meTaj9M.js";import{t}from"./observabilityView-1XPB4YsF.js";var n=e();function r(){return(0,n.jsx)(t,{})}var i=r;export{i as component};

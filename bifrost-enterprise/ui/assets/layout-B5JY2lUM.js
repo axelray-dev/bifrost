@@ -1,0 +1,1 @@
+import{r as e}from"./chunk-DECur_0Z.js";import{t}from"./react-CGQiRZuS.js";import{t as n}from"./useNavigate-ly8KWrNF.js";import{t as r}from"./useLocation-DaMSnCE9.js";var i=e(t());function a(){let e=n(),{searchStr:t}=r();return(0,i.useEffect)(()=>{e({to:`/workspace/prompt-repo${t}`,replace:!0})},[e,t]),null}var o=a;export{o as component};

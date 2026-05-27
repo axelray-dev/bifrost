@@ -1,0 +1,1 @@
+var e=(e=21)=>crypto.getRandomValues(new Uint8Array(e)).reduce((e,t)=>(t&=63,t<36?e+=t.toString(36):t<62?e+=(t-26).toString(36).toUpperCase():t>62?e+=`-`:e+=`_`,e),``);export{e as t};

@@ -1,0 +1,1 @@
+import{t as e}from"./jsx-runtime-6meTaj9M.js";import{t}from"./modelLimitsView-_TNWzVyT.js";var n=e();function r(){return(0,n.jsx)(t,{})}function i(){return(0,n.jsx)(r,{})}export{i as component};

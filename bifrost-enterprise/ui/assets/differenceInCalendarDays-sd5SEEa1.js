@@ -1,0 +1,1 @@
+import{a as e,n as t,r as n,t as r}from"./normalizeDates-Dk_g-4yx.js";function i(e,t){let r=n(e,t?.in);return r.setHours(0,0,0,0),r}function a(n,a,o){let[s,c]=r(o?.in,n,a),l=i(s),u=i(c),d=+l-t(l),f=+u-t(u);return Math.round((d-f)/e)}export{i as n,a as t};

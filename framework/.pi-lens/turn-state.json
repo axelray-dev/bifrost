@@ -1,0 +1,18 @@
+{
+  "files": {
+    "configstore/tables/virtualkey.go": {
+      "modifiedRanges": [
+        {
+          "start": 1,
+          "end": 309
+        }
+      ],
+      "importsChanged": true,
+      "lastEdit": "2026-05-22T07:30:36.044Z"
+    }
+  },
+  "turnCycles": 0,
+  "maxCycles": 3,
+  "lastUpdated": "2026-05-22T07:30:36.044Z",
+  "sessionId": "lens-mpgj3jrv-934ad4f7"
+}

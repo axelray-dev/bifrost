@@ -1,0 +1,1 @@
+import{t as e}from"./jsx-runtime-6meTaj9M.js";var t=e();function n(){return(0,t.jsx)(`div`,{className:`flex h-[60vh] items-center justify-center`,children:(0,t.jsx)(`p`,{className:`text-muted-foreground text-sm`,children:`PII Redactor rules coming soon.`})})}export{n as t};

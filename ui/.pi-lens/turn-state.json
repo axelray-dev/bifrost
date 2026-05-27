@@ -1,0 +1,194 @@
+{
+	"files": {
+		"components/sidebar.tsx": {
+			"modifiedRanges": [
+				{
+					"start": 1,
+					"end": 1411
+				}
+			],
+			"importsChanged": true,
+			"lastEdit": "2026-05-23T07:22:01.215Z"
+		},
+		"components/ui/multi-select.tsx": {
+			"modifiedRanges": [
+				{
+					"start": 1,
+					"end": 167
+				}
+			],
+			"importsChanged": true,
+			"lastEdit": "2026-05-22T13:15:59.628Z"
+		},
+		"app/workspace/alert-channels/layout.tsx": {
+			"modifiedRanges": [
+				{
+					"start": 2,
+					"end": 3
+				},
+				{
+					"start": 5,
+					"end": 13
+				},
+				{
+					"start": 15,
+					"end": 15
+				}
+			],
+			"importsChanged": true,
+			"lastEdit": "2026-05-21T09:37:01.838Z"
+		},
+		"lib/types/alerting.ts": {
+			"modifiedRanges": [
+				{
+					"start": 1,
+					"end": 86
+				}
+			],
+			"importsChanged": false,
+			"lastEdit": "2026-05-25T11:49:22.243Z"
+		},
+		"app/_fallbacks/enterprise/lib/contexts/rbacContext.tsx": {
+			"modifiedRanges": [
+				{
+					"start": 36,
+					"end": 36
+				}
+			],
+			"importsChanged": false,
+			"lastEdit": "2026-05-21T19:25:03.969Z"
+		},
+		"lib/store/apis/baseApi.ts": {
+			"modifiedRanges": [
+				{
+					"start": 1,
+					"end": 253
+				}
+			],
+			"importsChanged": true,
+			"lastEdit": "2026-05-22T07:17:42.303Z"
+		},
+		"app/alert-channels/page.tsx": {
+			"modifiedRanges": [
+				{
+					"start": 1,
+					"end": 12
+				}
+			],
+			"importsChanged": true,
+			"lastEdit": "2026-05-22T07:55:38.711Z"
+		},
+		"app/alert-channels/AlertChannelsView.tsx": {
+			"modifiedRanges": [
+				{
+					"start": 1,
+					"end": 39
+				}
+			],
+			"importsChanged": true,
+			"lastEdit": "2026-05-22T07:55:39.532Z"
+		},
+		"app/alert-channels/AlertChannelCard.tsx": {
+			"modifiedRanges": [
+				{
+					"start": 1,
+					"end": 131
+				}
+			],
+			"importsChanged": true,
+			"lastEdit": "2026-05-22T07:55:39.831Z"
+		},
+		"app/alert-channels/AlertChannelsFilters.tsx": {
+			"modifiedRanges": [
+				{
+					"start": 1,
+					"end": 191
+				}
+			],
+			"importsChanged": true,
+			"lastEdit": "2026-05-22T07:55:40.055Z"
+		},
+		"app/alert-channels/types.ts": {
+			"modifiedRanges": [
+				{
+					"start": 1,
+					"end": 24
+				}
+			],
+			"importsChanged": false,
+			"lastEdit": "2026-05-22T07:55:38.394Z"
+		},
+		"app/alert-channels/AlertChannelsList.tsx": {
+			"modifiedRanges": [
+				{
+					"start": 1,
+					"end": 141
+				}
+			],
+			"importsChanged": true,
+			"lastEdit": "2026-05-22T08:06:23.937Z"
+		},
+		"app/alert-channels/AlertChannelsRules.tsx": {
+			"modifiedRanges": [
+				{
+					"start": 1,
+					"end": 12
+				}
+			],
+			"importsChanged": false,
+			"lastEdit": "2026-05-22T07:55:38.971Z"
+		},
+		"app/alert-channels/AlertChannelsHistory.tsx": {
+			"modifiedRanges": [
+				{
+					"start": 1,
+					"end": 12
+				}
+			],
+			"importsChanged": false,
+			"lastEdit": "2026-05-22T07:55:39.221Z"
+		},
+		"app/alert-channels/AlertChannelRow.tsx": {
+			"modifiedRanges": [
+				{
+					"start": 1,
+					"end": 147
+				}
+			],
+			"importsChanged": true,
+			"lastEdit": "2026-05-22T08:06:23.594Z"
+		},
+		"lib/types/governance.ts": {
+			"modifiedRanges": [
+				{
+					"start": 76,
+					"end": 76
+				},
+				{
+					"start": 182,
+					"end": 182
+				},
+				{
+					"start": 261,
+					"end": 261
+				}
+			],
+			"importsChanged": false,
+			"lastEdit": "2026-05-25T11:47:45.505Z"
+		},
+		"app/workspace/virtual-keys/views/virtualKeySheet.tsx": {
+			"modifiedRanges": [
+				{
+					"start": 1,
+					"end": 1880
+				}
+			],
+			"importsChanged": true,
+			"lastEdit": "2026-05-25T11:53:19.537Z"
+		}
+	},
+	"turnCycles": 0,
+	"maxCycles": 3,
+	"lastUpdated": "2026-05-25T11:53:19.537Z",
+	"sessionId": "lens-mpl45w4j-053094db"
+}

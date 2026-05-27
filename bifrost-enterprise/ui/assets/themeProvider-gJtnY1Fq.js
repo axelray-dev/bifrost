@@ -1,0 +1,1 @@
+import"./chunk-DECur_0Z.js";import{t as e}from"./react-CGQiRZuS.js";import{t}from"./jsx-runtime-6meTaj9M.js";import{t as n}from"./dist-CWQUmRcK.js";e();var r=t();function i({children:e,...t}){return(0,r.jsx)(n,{...t,children:e})}export{i as t};
