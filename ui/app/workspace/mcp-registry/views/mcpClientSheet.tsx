@@ -504,6 +504,43 @@ export default function MCPClientSheet({ mcpClient, onClose, onSubmitSuccess, on
 										</span>
 									</div>
 								</div>
+								{mcpClient.config.connection_type === "stdio" &&
+									mcpClient.config.stdio_config?.envs &&
+									mcpClient.config.stdio_config.envs.length > 0 && (
+									<div className="space-y-2">
+										<div className="text-sm font-medium">Environment Variables</div>
+										<div className="rounded-md border">
+											<table className="w-full table-fixed">
+												<thead>
+													<tr className="border-b">
+														<th className="text-muted-foreground w-[40%] px-4 py-2 text-left text-xs font-medium">Name</th>
+														<th className="text-muted-foreground px-4 py-2 text-left text-xs font-medium">Value</th>
+													</tr>
+												</thead>
+												<tbody>
+													{mcpClient.config.stdio_config.envs.map((env) => {
+														const [name, ...valueParts] = env.split("=");
+														const value = valueParts.join("=");
+														return (
+															<tr key={env} className="border-b last:border-0">
+																<td className="p-2">
+																	<Input value={name} readOnly className="border-0 font-mono text-xs focus-visible:ring-0 focus-visible:ring-offset-0" />
+																</td>
+																<td className="p-2">
+																	<Input
+																		value={value || "—"}
+																		readOnly
+																		className="text-muted-foreground border-0 text-xs focus-visible:ring-0 focus-visible:ring-offset-0"
+																	/>
+																</td>
+															</tr>
+														);
+													})}
+												</tbody>
+											</table>
+										</div>
+									</div>
+								)}
 								<FormField
 									control={form.control}
 									name="is_code_mode_client"
